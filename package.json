@@ -1,0 +1,22 @@
+{
+  "name": "@singah/rainbow-console",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIngaH/rainbow-console.git"
+  },
+  "author": "sigurros inga helgadottir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SIngaH/rainbow-console/issues"
+  },
+  "homepage": "https://github.com/SIngaH/rainbow-console#readme",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
