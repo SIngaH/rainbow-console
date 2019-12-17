@@ -15,8 +15,5 @@
     "url": "https://github.com/SIngaH/rainbow-console/issues"
   },
   "homepage": "https://github.com/SIngaH/rainbow-console#readme",
-  "description": "",
-  "dependencies": {
-    "colors": "^1.4.0"
-  }
+  "description": ""
 }

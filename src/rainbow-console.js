@@ -7,6 +7,7 @@ function rainbowConsole(){
 module.exports = rainbowConsole;
 
 /* ---------------------------Brians version--------------------------------- */
+
 module.exports = [
 	"\x1b[31m", // red
 	"\x1b[33m", // yellow

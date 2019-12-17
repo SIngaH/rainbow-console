@@ -1,1 +1,1 @@
-module.exports = require("./src/rainbow-console");
+module.exports = require("./src/rainbow-console"); 
